@@ -601,7 +601,5 @@ background: rgba(13, 19, 33, 0.03);
   transition: transform 0.3s;
 }
 
-.footer-section .social img:hover {
-  transform: scale(1.2);
-}
+
 
